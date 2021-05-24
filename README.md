@@ -1,8 +1,10 @@
-<!--
+
 ### Hi there, I'm Vlad 👋
 
+Here are some of the more popular things I've built:
 
-
+<!--
+Secretly in my heart I cherish kask, other, that are not as popular but were interesting to build
 
 **Stvad/Stvad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
